@@ -1,0 +1,2 @@
+! important: after build
+chenge docs/index.html files js and css path to relative to docs directory not root directory
