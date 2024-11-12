@@ -116,6 +116,8 @@ const SettingsPopup = () => {
 // Render the popup
 // createing root
 window.addEventListener("DOMContentLoaded", () => {
+  // removed unuseed button
+  return;
   // create root element for the popup
   const settingdivcon = document.createElement("div");
   settingdivcon.id = "settingdivcon";
